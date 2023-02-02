@@ -1,5 +1,7 @@
 /**
  * Delete data extension
+ *
+ * Snippet from:
  * https://salesforce.stackexchange.com/questions/381054/how-to-delete-a-data-extension-entire-de-not-only-records-using-ssjs
  *
  * Use between tags <script runat="server"></script>
