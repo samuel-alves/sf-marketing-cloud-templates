@@ -1,5 +1,7 @@
 /**
  * Delete data extension records
+ *
+ * Snippet from:
  * https://www.linkedin.com/pulse/ssjs-clear-entire-data-extension-sascha-huwald/
  *
  * Use between tags <script runat="server"></script>

@@ -1,5 +1,7 @@
 /**
  * Delete data extension records
+ *
+ * Snippet from:
  * https://ampscript.xyz/how-tos/how-to-filter-and-delete-multiple-data-extension-records-with-a-script-activity/
  *
  * Use between tags <script runat="server"></script>
